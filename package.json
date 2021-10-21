@@ -1,0 +1,19 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "generating a team profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nahid1010/team-profile-generator.git"
+  },
+  "author": "Nahid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nahid1010/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/Nahid1010/team-profile-generator#readme"
+}
