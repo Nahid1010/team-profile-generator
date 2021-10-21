@@ -3,8 +3,14 @@
   "version": "1.0.0",
   "description": "generating a team profile",
   "main": "index.js",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
   "scripts": {
-    "test": "npm test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",

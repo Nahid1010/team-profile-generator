@@ -1,0 +1,12 @@
+.blue{
+    background-color: rgb(68, 0, 255)!important;
+}
+
+.row {
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.card {
+    margin: 10px;
+}
